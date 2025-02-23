@@ -9,14 +9,14 @@ A command-line tool to quickly generate working cURL commands for any API.  Say 
 * Authentication handling (API keys, OAuth, etc.).
 * Customizable cURL options.
 
-``## Usage
+//``## Usage
 
-``[Examples here]
+//``[Examples here]
 
-``## Contributing
+//``## Contributing
 
-``[Guidelines here]``
+//``[Guidelines here]``
 
-``## License
+//``## License
 
-``[License here]
+//``[License here]
