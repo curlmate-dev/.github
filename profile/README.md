@@ -8,15 +8,3 @@ A command-line tool to quickly generate working cURL commands for any API.  Say 
 * Support for various data types (JSON, XML, form data).
 * Authentication handling (API keys, OAuth, etc.).
 * Customizable cURL options.
-
-//``## Usage
-
-//``[Examples here]
-
-//``## Contributing
-
-//``[Guidelines here]``
-
-//``## License
-
-//``[License here]
